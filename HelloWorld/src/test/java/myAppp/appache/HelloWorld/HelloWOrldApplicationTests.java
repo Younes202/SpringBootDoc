@@ -8,6 +8,7 @@ class HelloWOrldApplicationTests {
 
 	@Test
 	void contextLoads() {
+		hello
 	}
 
 }
